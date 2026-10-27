@@ -1,2 +1,2 @@
 # deltaDemo
-This is my First GIT Repositry.
+This is my First -GIT Repositry.
